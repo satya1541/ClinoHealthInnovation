@@ -90,7 +90,7 @@ export default function Hero() {
             </div>
             <div className="flex flex-col gap-1">
               <div className="flex items-center gap-2 text-primary font-bold text-2xl font-display">
-                <ShieldCheck className="h-5 w-5" /> HIPAA
+                <ShieldCheck className="h-5 w-5" /> NABL
               </div>
               <p className="text-sm text-muted-foreground">Compliant Secure</p>
             </div>

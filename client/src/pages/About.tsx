@@ -8,7 +8,7 @@ export default function About() {
   const values = [
     { icon: Heart, title: "Compassion", text: "Every emergency is a person in need. We treat every call with maximum empathy." },
     { icon: Target, title: "Precision", text: "In healthcare, accuracy saves lives. Our IoT devices are clinical-grade." },
-    { icon: ShieldCheck, title: "Trust", text: "HIPAA-compliant and secure. Your health data is safe with us." },
+    { icon: ShieldCheck, title: "Trust", text: "NABL-compliant and secure. Your health data is safe with us." },
     { icon: Zap, title: "Speed", text: "The golden hour matters. Our tech streamlines dispatch like never before." }
   ];
 
