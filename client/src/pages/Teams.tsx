@@ -40,7 +40,7 @@ const teamMembers = [
         members: [
             { name: "Jayanta Kumar Das", role: "State Head", image: "/team/jayanta-kumar-das.webp", linkedin: "https://in.linkedin.com/company/moambulance" },
             { name: "Abinash Mohanty", role: "Operations Head", image: "/team/abinash-mohanty.webp", linkedin: "https://www.linkedin.com/in/abinash-mohanty-471a69129/" },
-            { name: "Ramya Ranjan Behura", role: "PRO", image: "/team/ramya-ranjan-behura.webp", linkedin: "https://in.linkedin.com/company/moambulance" },
+            { name: "Ramya Ranjan Behura", role: "Public relation officer", image: "/team/ramya-ranjan-behura.webp", linkedin: "https://in.linkedin.com/company/moambulance" },
             { name: "Bandana Behera", role: "HR Manager", image: "/team/bandana-behera.webp", linkedin: "https://www.linkedin.com/in/bandana-behera-785147214/" },
             { name: "Anniket Das", role: "Exec. Assistant", image: "/team/anniket-das.png", linkedin: "https://www.linkedin.com/in/anniket-das-531625212" },
             { name: "Biswabijayee Panigrahi", role: "BD Manager", image: "/team/biswabijayee-panigrahi.png", linkedin: "https://www.linkedin.com/in/biswabijayee-panigrahi-6453a829b" },
