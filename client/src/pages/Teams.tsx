@@ -26,7 +26,7 @@ const teamMembers = [
             { name: "Shesha Bhusan Mallik", role: "IOT Developer", image: "/team/shesha-bhusan-mallik.webp" },
             { name: "Gyana Ranjan Sahoo", role: "PCB Designer", image: "/team/gyana-ranjan-sahoo.webp" },
             { name: "Satya Narayana Behera", role: "DevOps Engineer", image: "/team/satya-narayana-behera.png" },
-            { name: "Manoj Kumar Mohanta", role: "Web Developer", image: "/team/manoj-kumar-mohanta.png" },
+            { name: "Manoj Kumar Mohanta", role: "Web Developer", image: "/team/manoj.png" },
             { name: "Saswat Rath", role: "IOT Developer", image: "/team/saswat-rath.png" },
             { name: "Millan Sahu", role: "Backend Developer", image: "/team/millan-sahu.jpg" },
             { name: "Gyana Ranjan Prusty", role: "App Developer", image: "/team/gyana-ranjan-prusty.jpg" },
