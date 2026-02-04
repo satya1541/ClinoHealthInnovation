@@ -32,24 +32,6 @@ export default function Footer() {
               </div>
             </div>
 
-            {/* Social Links */}
-            <div className="flex gap-3 pt-2">
-              {[
-                { icon: Facebook, color: "bg-[#1877F2]", key: "fb" },
-                { icon: Instagram, color: "bg-gradient-to-tr from-[#f9ce34] via-[#ee2a7b] to-[#6228d7]", key: "ig" },
-                { icon: Twitter, color: "bg-[#000000]", key: "x" },
-                { icon: Linkedin, color: "bg-[#0077b5]", key: "in" }
-              ].map((social) => (
-                <motion.a
-                  key={social.key}
-                  href="#"
-                  whileHover={{ scale: 1.1, y: -2 }}
-                  className={`${social.color} w-8 h-8 rounded-lg flex items-center justify-center shadow-lg hover:shadow-xl transition-all`}
-                >
-                  <social.icon className="w-4 h-4 text-white" />
-                </motion.a>
-              ))}
-            </div>
           </div>
 
           {/* Column 2: USEFUL LINKS */}
