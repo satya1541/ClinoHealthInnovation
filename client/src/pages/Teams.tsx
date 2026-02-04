@@ -29,9 +29,9 @@ const teamMembers = [
             { name: "Manoj Kumar Mohanta", role: "Web Developer", image: "/team/manoj.png" },
             { name: "Saswat Rath", role: "IOT Developer", image: "/team/saswat-rath.png" },
             { name: "Millan Sahu", role: "Backend Developer", image: "/team/millan-sahu.jpg" },
+            { name: "Priyanka Rout", role: "Digital Marketing", image: "/team/priyanka-rout.png" },
             { name: "Gyana Ranjan Prusty", role: "App Developer", image: "/team/gyana-ranjan-prusty.jpg" },
             { name: "Soumyakant Gopal", role: "IOT Developer", image: "/team/soumyakant-gopal.jpeg" },
-            { name: "Priyanka Rout", role: "Digital Marketing", image: "/team/priyanka-rout.png" },
         ]
     },
     {
