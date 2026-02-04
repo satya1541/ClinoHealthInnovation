@@ -19,7 +19,7 @@ const teamMembers = [
         ]
     },
     {
-        category: "Tech & Development",
+        category: "Tech & IOT",
         members: [
             { name: "Biswajit Mishra", role: "IOT Manager", image: "/team/biswajit-mishra.webp" },
             { name: "Rajesh Mahapatra", role: "Sr. Android Dev", image: "/team/rajesh-mahapatra.webp" },
@@ -31,12 +31,12 @@ const teamMembers = [
             { name: "Millan Sahu", role: "Backend Developer", image: "/team/millan-sahu.jpg" },
             { name: "Gyana Ranjan Prusty", role: "App Developer", image: "/team/gyana-ranjan-prusty.jpg" },
             { name: "Soumyakant Gopal", role: "IOT Developer", image: "/team/soumyakant-gopal.jpeg" },
+            { name: "Priyanka Rout", role: "Digital Marketing", image: "/team/priyanka-rout.png" },
         ]
     },
     {
         category: "Operations & HR",
         members: [
-            { name: "Priyanka Rout", role: "Digital Marketing", image: "/team/priyanka-rout.png" },
             { name: "Jayanta Kumar Das", role: "State Head", image: "/team/jayanta-kumar-das.webp" },
             { name: "Abinash Mohanty", role: "Operations Head", image: "/team/abinash-mohanty.webp" },
             { name: "Ramya Ranjan Behura", role: "PRO", image: "/team/ramya-ranjan-behura.webp" },
